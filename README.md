@@ -24,10 +24,10 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Am
 ### Exercício 2 - [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description)
 
 Dificuldade: Média<br>
-Problema: [Increasing Triplet Subsequence](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/candy/Exercicio1.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/candy/Exercicio1.c)<br>
+Problema: [Increasing Triplet Subsequence](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/increasing_Triplet_Subsequence/Exercicio2.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/increasing_Triplet_Subsequence/Exercicio2.c)<br>
 
-![](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/assets/candy.png)<br>
+![](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/assets/increasing.png)<br>
 
 ### Exercício 3 - [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
 
