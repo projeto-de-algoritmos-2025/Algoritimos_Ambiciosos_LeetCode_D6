@@ -1,34 +1,30 @@
-135. Candy
-Solved
-Hard
+334. Increasing Triplet Subsequence
+Medium
 Topics
 premium lock icon
 Companies
-There are n children standing in a line. Each child is assigned a rating value given in the integer array ratings.
-
-You are giving candies to these children subjected to the following requirements:
-
-Each child must have at least one candy.
-Children with a higher rating get more candies than their neighbors.
-Return the minimum number of candies you need to have to distribute the candies to the children.
+Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false.
 
  
 
 Example 1:
 
-Input: ratings = [1,0,2]
-Output: 5
-Explanation: You can allocate to the first, second and third child with 2, 1, 2 candies respectively.
+Input: nums = [1,2,3,4,5]
+Output: true
+Explanation: Any triplet where i < j < k is valid.
 Example 2:
 
-Input: ratings = [1,2,2]
-Output: 4
-Explanation: You can allocate to the first, second and third child with 1, 2, 1 candies respectively.
-The third child gets 1 candy because it satisfies the above two conditions.
+Input: nums = [5,4,3,2,1]
+Output: false
+Explanation: No triplet exists.
+Example 3:
+
+Input: nums = [2,1,5,0,4,6]
+Output: true
+Explanation: One of the valid triplet is (3, 4, 5), because nums[3] == 0 < nums[4] == 4 < nums[5] == 6.
  
 
 Constraints:
 
-n == ratings.length
-1 <= n <= 2 * 104
-0 <= ratings[i] <= 2 * 104
+1 <= nums.length <= 5 * 105
+-231 <= nums[i] <= 231 - 1
