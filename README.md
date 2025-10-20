@@ -13,7 +13,7 @@
 Este repositório tem como objetivo a resolução de exercícios sobre Algoritimos Ambiciosos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do terceiro módulo Algoritimos Ambiciosos.
 
 ## Screenshots
-### Exercício 1 - [Properties Graph](https://leetcode.com/problems/properties-graph)
+### Exercício 1 - [Candy](https://leetcode.com/problems/candy/description)
 
 Dificuldade: Difícil<br>
 Problema: [Properties Graph](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.md)<br>
