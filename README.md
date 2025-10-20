@@ -16,10 +16,10 @@ Este repositório tem como objetivo a resolução de exercícios sobre Algoritim
 ### Exercício 1 - [Candy](https://leetcode.com/problems/candy/description)
 
 Dificuldade: Difícil<br>
-Problema: [Properties Graph](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.md)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.c)<br>
+Problema: [Candy](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/candy/Exercicio1.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/candy/Exercicio1.c)<br>
 
-![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/properties-graph.png)<br>
+![](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/assets/candy.png)<br>
 
 ## Instalação 
 **Linguagem**: C++<br>
@@ -44,6 +44,6 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZEL
 
 ## Outros 
 **Apresentação da resolução dos exercícios:** 
-[LINK DO VÍDEO](https://youtu.be/EtKq7r8VStU): https://youtu.be/EtKq7r8VStU
+[LINK DO VÍDEO](): 
 
 
