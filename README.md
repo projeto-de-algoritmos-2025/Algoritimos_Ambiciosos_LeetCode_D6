@@ -21,6 +21,15 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Am
 
 ![](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/assets/candy.png)<br>
 
+### Exercício 3 - [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/description/)
+
+Dificuldade: Difícil<br>
+Problema: [Earliest Possible Day of Full Bloom
+](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/bloom/Exercicio3.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/bloom/Exercicio3.cpp)<br>
+
+![](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Ambiciosos_LeetCode_D6/blob/main/assets/bloom.png)<br>
+
 ## Instalação 
 **Linguagem**: C++<br>
 - O codigo deve ser executado no site do LeetCode em uma classe Solution.
