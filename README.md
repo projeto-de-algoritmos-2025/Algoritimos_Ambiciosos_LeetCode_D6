@@ -61,6 +61,6 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/Algoritimos_Am
 
 ## Outros 
 **Apresentação da resolução dos exercícios:** 
-[LINK DO VÍDEO](): 
+[LINK DO VÍDEO](https://youtu.be/wuCiGr_7dO0): https://youtu.be/wuCiGr_7dO0
 
 
