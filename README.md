@@ -1,4 +1,4 @@
-# GRAFOS1_JUIZELETRONICO_D6
+# Algoritimos_Ambiciosos_LeetCode_D6
 
 **Número da Lista**: 3<br>
 **Conteúdo da Disciplina**: Algoritimos Ambiciosos<br>
